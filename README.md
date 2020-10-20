@@ -6,10 +6,10 @@ Object-Oriented Programming or OOPs refers to languages that uses objects in pro
 
 - Class
 - Object
-- Polymorphism
-- Inheritance
 - Encapsulation
 - Abstraction
+- Polymorphism
+- Inheritance
 
 
 ## Class:
