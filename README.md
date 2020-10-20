@@ -38,3 +38,13 @@ Abstraction
 - Handle complexity by hiding unnecessary details from the user.
 
 ## Polymorphism:
+
+The word polymorphism means having many forms.
+
+### Compile Time Polymorphism (Method Overloading):
+
+A function can perform different actions with the same function name but should have different parameters.
+
+### Run Time Polymorphism (Method Overridding):
+
+It is a concept that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its superclasses or parent classes.
