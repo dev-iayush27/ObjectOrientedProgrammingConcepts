@@ -41,10 +41,23 @@ Abstraction
 
 The word polymorphism means having many forms.
 
-### Compile Time Polymorphism (Method Overloading):
+#### Compile Time Polymorphism (Method Overloading):
 
 A function can perform different actions with the same function name but should have different parameters.
 
-### Run Time Polymorphism (Method Overridding):
+#### Run Time Polymorphism (Method Overridding):
 
 It is a concept that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its superclasses or parent classes.
+
+## Inheritence:
+
+The capability of a class to derive properties and characteristics from another class is called Inheritance.
+
+#### Sub Class: 
+The class that inherits properties from another class is called Sub class or Derived Class.
+
+#### Super Class:
+The class whose properties are inherited by sub class is called Base Class or Super class.
+
+#### Reusability: 
+Inheritance supports the concept of “reusability”, i.e. when we want to create a new class and there is already a class that includes some of the code that we want, we can derive our new class from the existing class. By doing this, we are reusing the fields and methods of the existing class.
